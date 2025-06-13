@@ -1,0 +1,19 @@
+Subject,Protocol,Comparison,CNR
+HV1,Optimised,Femoral cartilage vs Tibial cartilage,14.26105680027834
+HV1,Optimised,Femoral cartilage vs Meniscus,41.29478211360019
+HV1,Optimised,Tibial cartilage vs Meniscus,27.497420781637903
+HV2,Optimised,Femoral cartilage vs Tibial cartilage,9.454543536671512
+HV2,Optimised,Femoral cartilage vs Meniscus,29.54156609948052
+HV2,Optimised,Tibial cartilage vs Meniscus,20.21436534919951
+HV2,Original,Femoral cartilage vs Tibial cartilage,49.83893037002928
+HV2,Original,Femoral cartilage vs Meniscus,38.80837448487021
+HV2,Original,Tibial cartilage vs Meniscus,11.472874214711
+HV3,Original,Femoral cartilage vs Tibial cartilage,53.798282226902685
+HV3,Original,Femoral cartilage vs Meniscus,49.49937941020455
+HV3,Original,Tibial cartilage vs Meniscus,2.4008468678957597
+HV3,Optimised,Femoral cartilage vs Tibial cartilage,37.63797382546931
+HV3,Optimised,Femoral cartilage vs Meniscus,38.81045339062047
+HV3,Optimised,Tibial cartilage vs Meniscus,1.4639682220573724
+HV1,Original,Femoral cartilage vs Tibial cartilage,56.48768884898862
+HV1,Original,Femoral cartilage vs Meniscus,62.18984646072569
+HV1,Original,Tibial cartilage vs Meniscus,6.420938382219864

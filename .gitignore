@@ -1,0 +1,22 @@
+# Ignore MATLAB backup and temporary files
+*.asv
+*.autosave
+*.m~ 
+*.fig~
+.DS_Store
+
+# Ignore compiled outputs
+*.mex*
+*.exe
+*.dll
+*.obj
+*.lib
+
+# Ignore Simulink cache and code generation
+slprj/
+sfun/
+*_rtw/
+
+# Ignore hidden system files
+Thumbs.db
+desktop.ini
